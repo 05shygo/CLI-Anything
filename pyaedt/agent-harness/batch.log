@@ -1,0 +1,49 @@
+ 
+ANSYS Electronics Desktop Version 2019.1.0, Build: 2018-11-20 21:55:03
+Location: C:\Program Files\AnsysEM\AnsysEM19.3\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 2:31:15 と  る 31, 2026
+Running as user: LAPTOP-DVCK0KTR\HP
+Temp directory: C:\Users\HP\AppData\Local\Temp
+Project directory: D:\class_design
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:31:54 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:31:54 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Normal completion of simulation on server: Local Machine. (2:31:54 と  る 31, 2026)
+[error] Command "ExportImageToFile" is not supported in non-graphical mode
+[error] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Script macro error: Abnormal script termination. (2:31:54 と  る 31, 2026)
+[error] Command "ExportImageToFile" is not supported in non-graphical mode
+[error] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Script macro error: Abnormal script termination. (2:31:55 と  る 31, 2026)
+[error] Command "ExportImageToFile" is not supported in non-graphical mode
+[error] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Script macro error: Abnormal script termination. (2:31:55 と  る 31, 2026)
+[error] Command "ExportImageToFile" is not supported in non-graphical mode
+[error] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Script macro error: Abnormal script termination. (2:31:55 と  る 31, 2026)
+[error] Command "ExportModelImageToFile" is not supported in non-graphical mode
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Parametric Analysis on ParamSweep_L2_L3 has been started. (2:31:56 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='20mm' L3='8mm') has been requested using the following machines: Local Machine. (2:32:03 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:32:15 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:32:15 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='20mm' L3='9mm') has been requested using the following machines: Local Machine. (2:32:15 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:32:31 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:32:31 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='20mm' L3='10mm') has been requested using the following machines: Local Machine. (2:32:31 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:32:47 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:32:47 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='20mm' L3='11mm') has been requested using the following machines: Local Machine. (2:32:47 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:33:09 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:33:09 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='20mm' L3='12mm') has been requested using the following machines: Local Machine. (2:33:11 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:33:38 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:33:38 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='20mm' L3='13mm') has been requested using the following machines: Local Machine. (2:33:38 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:33:58 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:33:58 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='20mm' L3='14mm') has been requested using the following machines: Local Machine. (2:33:58 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:34:14 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:34:14 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='21mm' L3='8mm') has been requested using the following machines: Local Machine. (2:34:14 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:34:30 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:34:30 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='21mm' L3='9mm') has been requested using the following machines: Local Machine. (2:34:30 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A discrete frequency sweep with 1 point(s) has been started using HFSS. (2:34:47 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), Discrete frequency sweep complete. (2:34:47 と  る 31, 2026)
+[info] Project:Printed_Dipole_Balun_2217, Design:Dipole_Balun (DrivenModal), A variation (L2='21mm' L3='10mm') has been requested using the following machines: Local Machine. (2:34:47 と  る 31, 2026)
